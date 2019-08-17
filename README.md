@@ -1,4 +1,5 @@
 # roman
+We hope not only robot and human can get along well, but there will be romance between the two.
 roman wasn't built in a day
 
 ## Reading
